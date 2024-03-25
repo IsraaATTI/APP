@@ -1,0 +1,29 @@
+.ts {
+    color: floralwhite;
+}
+
+#tss {
+
+    color: #000;
+}
+
+h2 {
+    color: rgb(255, 0, 149) !important;
+}
+
+ul>li:hover.list {
+    color: #fff;
+}
+
+h1:hover {
+    font-size: 50px;
+    color: blueviolet;
+}
+
+input[type="text"] {
+    color: aqua;
+}
+
+input[type="date"] {
+    color: rgb(111, 0, 255);
+}
